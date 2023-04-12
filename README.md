@@ -25,8 +25,8 @@
 1. Clone repo
 
    ```shell
-    $ git clone git@github.com:calm329/ts-mern-amazona.git
-    $ cd ts-mern-amazona
+    $ git clone git@github.com:basir/next-tailwind-amazona.git
+    $ cd next-tailwind-amazona
    ```
 
 2. Create .env File
