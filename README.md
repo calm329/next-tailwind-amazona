@@ -44,9 +44,9 @@
 
 4. Install and Run
 
-   ```
-   $ npm install
-   $ npm run dev
+   ```shell
+     npm install
+     npm run dev
    ```
 
 5. Seed Data
@@ -205,7 +205,3 @@
     1. create filters
     2. list products
     3. show filters
-
-```
-
-```
